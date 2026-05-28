@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "swingworker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2804e92a-76cd-44f4-b06b-0a394157c03d",
+			"database_name": "swing"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
