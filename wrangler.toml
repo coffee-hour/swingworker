@@ -1,3 +1,7 @@
 name = "cypherlink"
 main = "src/index.js"
 compatibility_date = "2023-12-01"
+
+[[kv_namespaces]]
+binding = "chat_messages"
+id = "76707374-2d6d-6573-7361-6765732d6b76"
