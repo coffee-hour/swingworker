@@ -1,5 +1,5 @@
 {
-	"compatibility_date": "2025-10-08",
+	"compatibility_date": "2023-12-01",
 	"main": "src/index.js",
 	"name": "cypherlink",
 	"upload_source_maps": true,
